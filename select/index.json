@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Friend Ship",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-03T08:19:08.953196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Friend Ship",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/01_Friend_Ship_星野源.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friend Ship",
+      "artist": "星野 源",
+      "has_synced": false,
+      "path": "select/02_Friend_Ship_星野_源.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friend Ship",
+      "artist": "Bonte Avond",
+      "has_synced": false,
+      "path": "select/03_Friend_Ship_Bonte_Avond.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Friend Ship",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/04_Friend_Ship_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Friend Ship",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/05_Friend_Ship_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friend Ship",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Friend_Ship_星野源.txt"
+    }
+  ]
+}
