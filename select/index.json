@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Friend Ship",
   "base_artist": "星野 源",
-  "createdAt": "2025-12-03T08:19:08.953196Z",
+  "createdAt": "2026-02-20T19:10:09.083006Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,14 @@
       "artist": "Gen Hoshino",
       "has_synced": true,
       "path": "select/05_Friend_Ship_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kira★Kira★Train (반짝★반짝★트래인) (TV 도쿄 Friend-Ship Project 테마 송)",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_Kira★Kira★Train_(반짝★반짝★트래인)_(TV_도쿄_Friend-Ship_Project_테마_송)_Ikimonogakari.lrc"
     },
     {
       "id": "petitlyrics_1",
